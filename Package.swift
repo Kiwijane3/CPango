@@ -8,5 +8,3 @@ let package = Package(
     .apt(["pango"])
   ]
 )
-
-a
