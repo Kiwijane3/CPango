@@ -1,11 +1,12 @@
-// swift-tools-version:4.0
+// swift-tools-version:5.1
 import PackageDescription
 
 let package = Package(
-  name: "Pango",
+  name: "CPango",
   pkgConfig: "pango",
   providers: [
     .apt(["pango"])
   ]
 )
 
+a
